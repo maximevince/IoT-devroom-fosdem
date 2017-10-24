@@ -1,6 +1,6 @@
 # FOSDEM Internet of Things devroom
 
-In February 2017, we're organizing the fourth FOSDEM devroom for the Internet of Things. We're now calling for proposals. Do you have an interesting project you'd like to present to more than 5,000 free and open source developers?
+In February 2018, we're organizing the fifth FOSDEM devroom for the Internet of Things. We're now calling for proposals. Do you have an interesting project you'd like to present to more than 5,000 free and open source developers?
 
 ### Introduction
 FOSDEM (Free and Open source Software Developers' European Meeting) is a non-commercial, volunteer organized European event centered around free and open source software development. It is aimed at developers and anyone interested in the free and open source software movement. It aims to enable developers to meet and to promote the awareness and use of free and open source software.
@@ -13,7 +13,7 @@ The FOSDEM devrooms are whole-day tracks focused on one topic, aimed at develope
 Thousands of keen developers come to FOSDEM. There's no better event in Europe for reaching out to free and open source developers.
 
 ### Date
-The IoT devroom will be on Saturday 4th February, 2017.
+The IoT devroom will be on Sunday 4th February, 2018.
 
 ### How to Submit a Proposal
 If you have an IoT project you'd like to present, please submit it via FOSDEM's Pentabarf web tool. You will create an account (if you don't have one from a previous year), and select the "Internet of Things devroom" as the track. 
