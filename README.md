@@ -17,7 +17,7 @@ The IoT devroom will be on Sunday 4th February, 2018.
 
 ### How to Submit a Proposal
 If you have an IoT project you'd like to present, please submit it via FOSDEM's Pentabarf web tool. You will create an account (if you don't have one from a previous year), and select the "Internet of Things devroom" as the track. 
-We'll discuss and select talks here: https://github.com/maximevince/IoT-devroom-fosdem. If you want to join in the review process, please just comment over there.  We’ll then make a selection from all the submitted proposals.
+Every submission received will be reviewed and we’ll then make a selection from all the submitted proposals.
 
 We're looking for talks that cover one or more of the following topics:
 * FOSS solutions for machine-to-machine communication on small embedded devices.
